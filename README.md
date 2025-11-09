@@ -1,6 +1,6 @@
-# **🚗CAR SALES ANALYSIS DASHBOARD**
+# **🚗CAR SALES ANALYSIS PROJECT**
 
-This project provides a full analysis of car sales performance using Power BI, focusing on how key metrics such as total revenue, cars sold, and average sales have evolved over time. The goal was to help the client monitor sales performance, compare growth trends, and understand which products and regions are driving business outcomes.
+This project presents a detailed analysis of car sales data using Power BI, with an emphasis on time intelligence, growth tracking, and sales performance monitoring. It demonstrates how business insights can be derived from raw data through proper modeling, DAX calculations, and visualization design.
 
 ## **📁Project Overview**
 
@@ -79,37 +79,42 @@ Data cleaning and transformations were done in Power Query, ensuring the dataset
 - MTD Cars Sold:$1.92k
   - This shows the total number of cars sold in the current month alone.
 
+OVERVIEW                                                                           |  DETAILS
+:--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------:
+ ![](OVERVIEW.jpg)                                                                 |    ![](DETAILS.jpg)
+
 ## **📈Key Insights and Findings**
 
-Sales Performance Over Time:
-Total year-to-date (YTD) sales reached $371.2 million, marking a clear improvement over the previous year, with an increase of $71 million in revenue and 23.59% year-over-year growth. The total number of cars sold also increased significantly from 10,645 to 13,261 units, showing that the company’s sales performance is both strong and consistent.
+1. Sales Performance Over Time:
 
-Body Style Analysis:
-Among car types, Hatchbacks achieved the highest YTD sales value of $82.8 million, making them the top-performing body style. Hardtops recorded the lowest sales at $51.4 million, suggesting reduced consumer interest in that category.
+   - Total year-to-date (YTD) sales reached $371.2 million, marking a clear improvement over the previous year, with an increase of $71 million in revenue and 23.59% year-over-year growth. The total number of cars sold also increased significantly from 10,645 to 13,261 units, showing that the company’s sales performance is both strong and consistent.
 
-Color Preference:
-In terms of color, Pale White cars generated the highest sales at $174.5 million, followed closely by Red cars at $125.2 million. These results indicate a customer preference for neutral and bold tones, which should guide future production and inventory strategies.
+2. Body Style Analysis:
 
-Regional Performance:
-Regional analysis revealed that Austin recorded the highest number of cars sold (2,296 units) and the highest total sales value of $65 million.
-In contrast, Middletown had the lowest performance, selling 1,722 cars and generating $47.6 million in sales.
-These findings highlight Austin as a key sales hub, while Middletown may require targeted sales or promotional support to boost performance.
+   - Among car types, Hatchbacks achieved the highest YTD sales value of $82.8 million, making them the top-performing body style. Hardtops recorded the lowest sales at $51.4 million, suggesting reduced consumer interest in that category.
 
-Manufacturer Analysis:
-Among car brands, Chevrolet led in both total sales and cars sold, generating $27.1 million and selling 1,043 units. Dodge ($25 million) and Ford ($24.5 million) followed closely behind.
+3. Color Preference:
+
+   - In terms of color, Pale White cars generated the highest sales at $174.5 million, followed closely by Red cars at $125.2 million. These results indicate a customer preference for neutral and bold tones, which should guide future production and inventory strategies.
+
+4. Regional Performance:
+
+   - Regional analysis revealed that Austin recorded the highest number of cars sold (2,296 units) and the highest total sales value of $65 million. In contrast, Middletown had the lowest performance, selling 1,722 cars and generating $47.6 million in sales. These findings highlight Austin as a key sales hub, while Middletown may require targeted sales or promotional support to boost performance.
+
+5. Manufacturer Analysis:
+
+   - Among car brands, Chevrolet led in both total sales and cars sold, generating $27.1 million and selling 1,043 units. Dodge ($25 million) and Ford ($24.5 million) followed closely behind.
 On the lower end, Jaguar recorded the least performance, contributing only $2.5 million in total sales with 102 cars sold.
 
-Weekly and Monthly Sales Trends:
-Sales trends across the year showed consistent upward movement, with noticeable peaks in certain weeks, reaching as high as $14.9 million in weekly sales. This consistency indicates strong customer demand throughout the year rather than isolated spikes.
+6. Weekly and Monthly Sales Trends:
 
-🧭 Key Learnings
+   - Sales trends across the year showed consistent upward movement, with noticeable peaks in certain weeks, reaching as high as $14.9 million in weekly sales. This consistency indicates strong customer demand throughout the year rather than isolated spikes.
 
-Working on this project deepened my understanding of how to apply DAX time intelligence in practical business analysis. I learned how to calculate and interpret YTD, MTD, and YoY metrics in a way that aligns with real-world performance measurement.
-I also strengthened my skills in data modeling, particularly in creating a Calendar Table and establishing correct relationships that allow accurate time-based aggregation.
+**Click the image below to watch the full project walkthrough⬇️.**
 
-Building this report also improved my understanding of how to design interactive dashboards, create dynamic KPIs, and use visual cues to make business trends and performance insights easier to interpret.
+[![Watch the video](OVERVIEW.jpg)](https://drive.google.com/file/d/1ERWN9wFyVczMNbCDcNQx_lSDs57FQdn6/view?usp=sharing)
 
-💼 Business Impact
+## **💼Business Impact**
 
 This dashboard provides the client with a single, reliable view of their car sales performance. They can now monitor sales growth, unit movement, and average transaction values at any time of the year.
 The insights allow them to identify which car models and colors drive the most revenue, which dealers are performing best, and where there is room for operational or marketing improvement.
@@ -117,14 +122,22 @@ The insights allow them to identify which car models and colors drive the most r
 By highlighting sales differences, top contributors, and regional performance, the report enables management to make more informed decisions about production planning, inventory allocation, and dealer engagement.
 It transforms previously static sales records into actionable intelligence that supports strategic and data-driven business decisions.
 
-🏁 Conclusion
+## **🧭Key Learnings**
 
-This project demonstrated how data modeling, DAX calculations, and interactive visualization can turn raw sales data into a business intelligence tool. It reflects a complete analytical process — from cleaning and modeling to visualization and storytelling — designed to provide practical insights that can shape real business outcomes.
+Working on this project deepened my understanding of how to apply DAX time intelligence in practical business analysis. I learned how to calculate and interpret YTD, MTD, and YoY metrics in a way that aligns with real-world performance measurement.
+I also strengthened my skills in data modeling, particularly in creating a Calendar Table and establishing correct relationships that allow accurate time-based aggregation.
 
-📩 Contact Me
+Building this report also improved my understanding of how to design interactive dashboards, create dynamic KPIs, and use visual cues to make business trends and performance insights easier to interpret.
 
-Email: portiareginald06@gmail.com
+## **🏁Conclusion**
 
-LinkedIn: Portia Reginald Anulika
+This project connected data modeling, DAX, and visualization to form a complete business analysis solution.
+By comparing current performance to previous periods, it delivers actionable intelligence for business leaders to assess growth, set goals, and refine sales strategies.
 
-📂 View Full Project
+## **📩Contact Me**
+
+Feel free to reach out via
+
+- My E-mail: portiareginald06@gmail.com
+
+- My LinkedIn: [Portia Reginald Anrulika](https://www.linkedin.com/in/portia-reginald-13103719a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
